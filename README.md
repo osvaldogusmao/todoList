@@ -20,5 +20,5 @@ Sistema de Tarefas - List TODO
 * Aluno	: Jos&eacute; Osvaldo Gusmão do Nascimento
 * RA	: 601986
 * Curso	: An&aacute;lise e Desenvolvimento de Sistema
-		  Linguagem de Programação IV
+		  Linguagem de Programa&ccedil;&atilde;o IV
 
