@@ -1,7 +1,7 @@
 Sistema de Tarefas - List TODO
 ========
 
-Listando todas as tarefas, concluidas ou n‹o
+Listando tarefas
 
 ![P‡gina inicial](http://www.boletimesportivo.com/assets/imagem-01.png)
 
@@ -11,7 +11,7 @@ Cadastrando nova tarefa
 ![P‡gina inicial](http://www.boletimesportivo.com/assets/imagem-02.png)
 
 
-Listagem de tarefas concluidas e n‹o conluidas
+Listagem de tarefas (detalhe: tarefa concluida)
 
 ![P‡gina inicial](http://www.boletimesportivo.com/assets/imagem-03.png)
 
