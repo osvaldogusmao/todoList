@@ -8,7 +8,7 @@ import java.util.Calendar;
 public class Util {
 
 	public static Calendar  converterStringParaCalendar(String data){		
-		DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy hh:mm:ss");
+		DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
 		Calendar date = Calendar.getInstance();
 		try {
 			date.setTime(dateFormat.parse(data));
